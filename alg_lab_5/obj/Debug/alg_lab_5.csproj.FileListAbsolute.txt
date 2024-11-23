@@ -1,0 +1,6 @@
+D:\RiderProjects\alg_lab_5\alg_lab_5\bin\Debug\alg_lab_5.exe
+D:\RiderProjects\alg_lab_5\alg_lab_5\bin\Debug\alg_lab_5.pdb
+D:\RiderProjects\alg_lab_5\alg_lab_5\obj\Debug\alg_lab_5.csproj.AssemblyReference.cache
+D:\RiderProjects\alg_lab_5\alg_lab_5\obj\Debug\alg_lab_5.csproj.CoreCompileInputs.cache
+D:\RiderProjects\alg_lab_5\alg_lab_5\obj\Debug\alg_lab_5.exe
+D:\RiderProjects\alg_lab_5\alg_lab_5\obj\Debug\alg_lab_5.pdb
